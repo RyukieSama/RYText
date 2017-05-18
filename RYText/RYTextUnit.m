@@ -7,27 +7,8 @@
 //
 
 #import "RYTextUnit.h"
+#import "RYBaseConfig.h"
 
 @implementation RYTextUnit
-
-- (void)touchEventGo {
-   }
-
-#pragma mark - function
-- (void)atClick {
-
-}
-
-- (void)sharpClick {
-
-}
-
-- (void)linkClick {
-
-}
-
-- (void)emojiClick {
-    NSLog(@"%s",__FUNCTION__);
-}
 
 @end
